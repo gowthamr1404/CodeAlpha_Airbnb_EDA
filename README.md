@@ -57,7 +57,7 @@ This project analyzes ~49,000 Airbnb listings across New York City to understand
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/CodeAlpha_Airbnb_EDA.git
+   git clone https: https://github.com/gowthamr1404/CodeAlpha_Airbnb_EDA.git
    cd CodeAlpha_Airbnb_EDA
    ```
 2. Install the required libraries:
